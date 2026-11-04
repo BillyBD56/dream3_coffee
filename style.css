@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body  {
+    background-image: url(images/coffeetile_dk.jpg);
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-image: url(images/coffeetile_br.jpg);
+}
+.container-fluid .container .container {
+    background-image: -webkit-linear-gradient(270deg,rgba(159,125,53,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(159,125,53,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(159,125,53,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(159,125,53,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
+.row .col-lg-4 .text-center {
+    color: #F5EBEB;
+}
+.row .col-lg-4 p {
+    color: #F6ECEC;
+}
+.container-fluid .container footer {
+}
+footer   {
+    background-image: url(images/coffeetile_br.jpg);
+    margin-bottom: 30px;
+}
+p {
+    color: #F9EEEF;
+    font-size: 18px;
+}
+
+@media screen{
+.container-fluid .container p {
+}
+.container-fluid .container p {
+}
+}
+.heroheader {
+}
